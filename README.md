@@ -13,5 +13,7 @@ To download the demo program: https://www.enocean.com/fileadmin/redaktion/visual
 3. Run the pyEnOcean.py within the same directory of "EnOcean-Aruba-Demo.exe"
 4. Change the py file to do what you want
 
+# Tips and Tricks
+result.replace("\\", "").replace("\"{","{").replace("}\"", "}") is needed because the original Json message is not correct.
 
 
