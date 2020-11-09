@@ -35,7 +35,6 @@ for line in proc.stdout:
                 # RockerB on, off, notPressed
                 if rockerB_data == "on":
                     rockerB_on()
-                    
                 elif rockerB_data == "off":
                     rockerB_off()
                 elif rockerB_data == "notPressed":
