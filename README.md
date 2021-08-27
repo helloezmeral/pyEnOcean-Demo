@@ -19,7 +19,10 @@ result.replace("\\", "").replace("\"{","{").replace("}\"", "}") is needed becaus
 
 ## Using the USB directly
 1. Install the driver
-2. Check the manual of the ascii code https://www.enocean.com/fileadmin/redaktion/support/dolphin-api/esp3_page.html
+2. Check the manual of the ascii code
 
+
+- https://www.enocean.com/en/support/knowledge-base/
+- https://www.enocean.com/fileadmin/redaktion/support/dolphin-api/esp3_page.html
 ![image](https://user-images.githubusercontent.com/72959956/131094703-4c270a5e-93e6-48b5-a35a-698f82390f6d.png)
 
